@@ -1,0 +1,2 @@
+# CS
+🌹computer science studying 
