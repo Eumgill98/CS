@@ -7,3 +7,4 @@
 
 > 1. [Python](./Python/)
 >> 1.1. [asyncio](./Python/asyncio/)
+>> 1.2. [super](./Python/super/)
